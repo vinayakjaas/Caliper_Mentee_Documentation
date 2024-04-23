@@ -35,7 +35,8 @@ My journey has been shaped by a profound interest in exploring new technologies 
   1. [PR(Merged)](https://github.com/hyperledger/caliper/pull/1524)
   2. [PR(Merged)](https://github.com/hyperledger/caliper/pull/1526)
   3. [PR(Merged)](https://github.com/hyperledger/caliper/pull/1527)
-  4. [PR(Open)](https://github.com/hyperledger/caliper/pull/1533)
+  4. [PR(Merged)](https://github.com/hyperledger/caliper/pull/1533)
+  5. [PR(Merged)](https://github.com/hyperledger/caliper/pull/1540)
 
 
 - **Issue:**
@@ -47,6 +48,6 @@ My journey has been shaped by a profound interest in exploring new technologies 
 
 # Resume
 
-For a comprehensive overview of my professional background and skills, you can download my resume [here](../About_mentee/Resume_Final%20(1).pdf).
+For a comprehensive overview of my professional background and skills, you can download my resume [here](../About_mentee/LFX_Resume.pdf).
 
 
